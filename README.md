@@ -1,6 +1,6 @@
 # TS-SayHello-plugin
 适用于云崽的JS插件，每日60s早报，早安，晚安
-/**
+
  * Plugin name : TS每日问候
  * Author : TS霆生
  * Version : 1.0.0
